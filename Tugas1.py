@@ -1,0 +1,12 @@
+roti = 100
+print("Persediaan roti =", roti)
+roti += 50
+print("Setelah produksi lagi sebanyak 50 =", roti)
+roti *= 3
+print("Produksi dikalikan 3 =", roti)
+roti -= 120
+print("120 roti yang dikirim kepada pelanggan =", roti)
+roti /= 4
+print("Sisa roti dibagi 4 etalase =", roti)
+roti += 10
+print("Tambahan 10 roti =", roti)
